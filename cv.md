@@ -5,6 +5,14 @@
 
 ### **Contact Information**
 
+- Phone:
+
+  - +90 554 7900187
+  - +7 952 3581753
+
+- E-mail: i.v.chislova@gmail.ru
+- Git-Hub: [Iriska-kitty](https://github.com/Iriska-kitty)
+- Discord: iriska#8555
 
 ---
 
